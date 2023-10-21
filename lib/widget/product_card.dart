@@ -27,6 +27,7 @@ class product_card extends StatelessWidget {
             //titla and text
             Expanded(
               child: Column(
+
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Container(
